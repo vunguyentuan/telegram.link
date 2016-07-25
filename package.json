@@ -17,13 +17,13 @@
     "url": "https://github.com/enricostara/telegram.link/issues"
   },
   "dependencies": {
+    "colors": "1.1.2",
+    "es6-promise": "2.3.0",
     "get-flow": "latest",
     "get-log": "latest",
     "requirish": "latest",
-    "telegram-tl-node": "latest",
-    "telegram-mt-node": "latest",
-    "colors": "1.1.2",
-    "es6-promise": "2.3.0"
+    "telegram-mt-node": "github:vunguyentuan/telegram-mt-node",
+    "telegram-tl-node": "latest"
   },
   "license": "MIT",
   "devDependencies": {
